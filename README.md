@@ -1,0 +1,2 @@
+# OAuth_youtubeAPI
+OAuth認証を用いてYoutubeAPIを使用するサンプル
